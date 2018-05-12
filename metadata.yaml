@@ -1,0 +1,33 @@
+_repo: The-Boy-Chums-in-the-Forest--Or-Hunting-for-Plume-Birds-in-the-Florida-Everglades_27561
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: archival
+  image_path: 27561-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Ely, Wilmer M. (Wilmer Mateo)
+    alias: Ely, Wilmer Mateo
+    gutenberg_agent_id: '32767'
+    url: http://www.gutenberg.org/2009/agents/32767
+description: ''
+gutenberg_issued: '2008-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fowling -- Florida -- Everglades -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Boy Chums in the Forest; Or, Hunting for Plume Birds in the Florida Everglades
+url: http://www.gutenberg.org/ebooks/27561
